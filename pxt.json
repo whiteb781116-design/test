@@ -4,7 +4,8 @@
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microphone": "*"
+        "microphone": "*",
+        "Covolt": "github:LLY16888/Microbit_Car#34699bc2bedd5406c1326474beea5775e0c47149"
     },
     "files": [
         "main.blocks",
